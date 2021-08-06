@@ -7,19 +7,4 @@ Q1,E,N,5,5,Led Yerleştir
 S1,A,Y,6,6,Buton Yerleştir
 R1,B,Y,7,7,Fan Yerleştir
 T1,C,Y,8,8,İlgili Entegre Yerleştir
-H2,A,Y,1,1,Transistör Yerleştir
-J2,C,N,2,2,Kondansatör Yerleştir
-D2,F,N,3,3,Direnç Yerleştir
-M2,B,Y,4,4,Potansiyometre Yerleştir
-Q2,E,N,5,5,Led Yerleştir
-S2,A,Y,6,6,Buton Yerleştir
-R2,B,Y,7,7,Fan Yerleştir
-T2,C,Y,8,8,İlgili Entegre Yerleştir
-H3,A,Y,1,1,Transistör Yerleştir
-J3,C,N,2,2,Kondansatör Yerleştir
-D3,F,N,3,3,Direnç Yerleştir
-M3,B,Y,4,4,Potansiyometre Yerleştir
-Q3,E,N,5,5,Led Yerleştir
-S3,A,Y,6,6,Buton Yerleştir
-R3,B,Y,7,7,Fan Yerleştir
-T3,C,Y,8,8,İlgili Entegre Yerleştir
+
