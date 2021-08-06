@@ -2,6 +2,9 @@ Status,Over,O,ScoreA,ScoreB,Recommend
 H1,A,A,1,1,Transistör Yerleştir
 J1,C,C,20,20,Kondansatör Yerleştir
 D1,F,F,300,300,Direnç Yerleştir
+D2,F,F,300,300,Direnç Yerleştir
+D3,F,F,300,300,Direnç Yerleştir
+D4,F,F,300,300,Direnç Yerleştir
 M1,B,B,4000,4000,Potansiyometre Yerleştir
 Q1,E,E,50000,50000,Led Yerleştir
 S1,S,S,600000,600000,Buton Yerleştir
