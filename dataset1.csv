@@ -1,10 +1,10 @@
 Status,Over,O,ScoreA,ScoreB,Recommend
 H1,A,Y,1,1,Transistör Yerleştir
-J1,C,N,2,2,Kondansatör Yerleştir
-D1,F,N,3,3,Direnç Yerleştir
-M1,B,Y,4,4,Potansiyometre Yerleştir
-Q1,E,N,5,5,Led Yerleştir
-S1,A,Y,6,6,Buton Yerleştir
+J1,C,N,20,20,Kondansatör Yerleştir
+D1,F,N,300,300,Direnç Yerleştir
+M1,B,Y,4000,4000,Potansiyometre Yerleştir
+Q1,E,N,50000,50000,Led Yerleştir
+S1,A,Y,600000,600000,Buton Yerleştir
 R1,B,Y,7,7,Fan Yerleştir
-T1,C,Y,8,8,İlgili Entegre Yerleştir
+T1,C,Y,0.8,0.8,İlgili Entegre Yerleştir
 
