@@ -1,35 +1,18 @@
-Status,Over,O,ScoreA,ScoreB,Recommend
-H1,A,A,1,1,Transistör Yerleştir
-J1,C,C,20,20,Kondansatör Yerleştir
-D1,F,F,300,300,Direnç Yerleştir
-D2,F,F,300,300,Direnç Yerleştir
-D3,F,F,300,300,Direnç Yerleştir
-D4,F,F,300,300,Direnç Yerleştir
-M1,B,B,4000,4000,Potansiyometre Yerleştir
-Q1,E,E,50000,50000,Led Yerleştir
-S1,S,S,600000,600000,Buton Yerleştir
-R1,T,T,7,7,Fan Yerleştir
-T1,Z,Z,0.8,0.8,İlgili Entegre Yerleştir
-H1,A,A,1,1,Transistör Yerleştir
-J1,C,C,20,20,Kondansatör Yerleştir
-D1,F,F,300,300,Direnç Yerleştir
-D2,F,F,300,300,Direnç Yerleştir
-D3,F,F,300,300,Direnç Yerleştir
-D4,F,F,300,300,Direnç Yerleştir
-M1,B,B,4000,4000,Potansiyometre Yerleştir
-Q1,E,E,50000,50000,Led Yerleştir
-S1,S,S,600000,600000,Buton Yerleştir
-R1,T,T,7,7,Fan Yerleştir
-T1,Z,Z,0.8,0.8,İlgili Entegre Yerleştir
-H1,A,A,1,1,Transistör Yerleştir
-J1,C,C,20,20,Kondansatör Yerleştir
-D1,F,F,300,300,Direnç Yerleştir
-D2,F,F,300,300,Direnç Yerleştir
-D3,F,F,300,300,Direnç Yerleştir
-D4,F,F,300,300,Direnç Yerleştir
-M1,B,B,4000,4000,Potansiyometre Yerleştir
-Q1,E,E,50000,50000,Led Yerleştir
-S1,S,S,600000,600000,Buton Yerleştir
-R1,T,T,7,7,Fan Yerleştir
-T1,Z,Z,0.8,0.8,İlgili Entegre Yerleştir
+Name,OverallGrade,Obedient,ResearchScore,ProjectScore,Recommend
+Henry,A,Y,90,85,Yes
+John,C,N,85,51,Yes
+David,F,N,10,17,No
+Holmes,B,Y,75,71,Yes
+Marvin,E,N,20,30,No
+Simon,A,Y,92,79,Yes
+Robert,B,Y,60,59,No
+Trent,C,Y,15,33,No
+Tatu,A,Y,190,185,SuperYes
+Joker,C,N,185,179,SuperYes
+Rolmes,F,N,10,17,No
+Jacks,B,Y,75,71,Yes
+Heron,E,N,20,30,No
+Michael,A,Y,192,189,SuperYes
+Niro,B,Y,180,199,SuperYes
+Ferguson,C,Y,196,185,SuperYes
 
