@@ -1,20 +1,20 @@
 Name,OverallGrade,Obedient,ResearchScore,ProjectScore,Recommend
-Henry,A,Y,90,85,Yes
-John,C,N,85,51,Yes
-David,F,N,10,17,No
-Holmes,B,Y,75,71,Yes
-Marvin,E,N,20,30,No
-Simon,A,Y,92,79,Yes
-Robert,B,Y,60,59,No
-Trent,C,Y,15,33,No
-Tatu,A,Y,190,185,SuperYes
-Joker,C,N,185,179,SuperYes
-Rolmes,F,N,10,17,No
-Jacks,B,Y,75,71,Yes
-Heron,E,N,20,30,No
-Michael,A,Y,192,189,SuperYes
-Niro,B,Y,180,199,SuperYes
-Ferguson,C,Y,196,185,SuperYes
+Henry,A,Y,90,85,Kondansatör
+John,C,N,85,51,Kondansatör
+David,F,N,10,17,Direnç
+Holmes,B,Y,75,71,Kondansatör
+Marvin,E,N,20,30,Direnç
+Simon,A,Y,92,79,Kondansatör
+Robert,B,Y,60,59,Direnç
+Trent,C,Y,15,33,Direnç
+Tatu,A,Y,190,185,Entegre
+Joker,C,N,185,179,Entegre
+Rolmes,F,N,10,17,Direnç
+Jacks,B,Y,75,71,Kondansatör
+Heron,E,N,20,30,Direnç
+Michael,A,Y,192,189,Entegre
+Niro,B,Y,180,199,Entegre
+Ferguson,C,Y,196,185,Entegre
 
 
 
