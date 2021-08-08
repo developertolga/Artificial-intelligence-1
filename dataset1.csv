@@ -1,19 +1,20 @@
 Name,OverallGrade,Obedient,ResearchScore,ProjectScore,Recommend
-Henry,A,Y,10,15,Kondansatör
-John,C,N,12,16,Kondansatör
-Jacks,B,Y,11,14,Kondansatör
-J123,C,N,12,16,Kondansatör
-J342,B,Y,11,14,Kondansatör
-J126,C,N,12,16,Kondansatör
-J348,B,Y,11,14,Kondansatör
-Henry4,A,Y,90,85,Potansiyometre
-John4,C,N,85,91,Potansiyometre
-Jacks4,B,Y,80,90,Potansiyometre
-Holmes4,B,Y,89,91,Potansiyometre
-Simon4,A,Y,92,89,Potansiyometre
-Nomis4,A,Y,91,90,Potansiyometre
-Jacks44,B,Y,87,89,Potansiyometre
-
+Henry,A,Y,90,85,Yes
+John,C,N,85,51,Yes
+David,F,N,10,17,No
+Holmes,B,Y,75,71,Yes
+Marvin,E,N,20,30,No
+Simon,A,Y,92,79,Yes
+Robert,B,Y,60,59,No
+Trent,C,Y,15,33,No
+Tatu,A,Y,190,185,SuperYes
+Joker,C,N,185,179,SuperYes
+Rolmes,F,N,10,17,No
+Jacks,B,Y,75,71,Yes
+Heron,E,N,20,30,No
+Michael,A,Y,192,189,SuperYes
+Niro,B,Y,180,199,SuperYes
+Ferguson,C,Y,196,185,SuperYes
 
 
 
