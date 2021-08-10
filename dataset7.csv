@@ -1,12 +1,17 @@
 Name,OverallGrade,Obedient,ResearchScore,ProjectScore,Recommend
-Henry,A,Y,800,800,Q8 Bobin
-John,C,N,800,800,Q8 Bobin
-David,F,N,800800,Q8 Bobin
-Holmes,B,Y,800,800,Q8 Bobin
-Marvin,E,N,800,800,Q8 Bobin
+Henr1y,A,Y,800,800,Q8 Bobin
+Joh1n,C,N,800,800,Q8 Bobin
+Davi1d,F,N,800800,Q8 Bobin
+Holme1s,B,Y,800,800,Q8 Bobin
+Marvi1n,E,N,800,800,Q8 Bobin
 Henry2b,A,Y,900,900,Q9 Buton
 John2b,C,N,900,900,Q9 Buton
 David2b,F,N,900,900,Q9 Buton
 Holmes2b,B,Y,900,900,Q9 Buton
 Marvin2b,E,N,900,900,Q9 Buton
+Henry3z,A,Y,1000,1000,Q3 Konnektör
+John3z,C,N,1000,1000,Q3 Konnektör
+David3z,F,N,1000,1000,Q3 Konnektör
+Holmes3z,B,Y,1000,1000,Q3 Konnektör
+Marvin3z,E,N,1000,1000,Q3 Konnektör
 
