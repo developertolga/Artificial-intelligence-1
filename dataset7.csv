@@ -29,6 +29,10 @@ qohdrnz,C,N,1300,1300,Q13 Step Motor
 pavidrdb,F,N,1300,1300,Q13 Step Motor
 xlmdrest,B,Y,1300,1300,Q13 Step Motor
 dfrvdrinlc,E,N,1300,1300,Q13 Step Motor
-
+cnvvrtocz1,A,Y,1400,1400,Q14 Sınır Boşluğu3
+qoroclez1,C,N,1400,1400,Q14 Sınır Boşluğu3
+parocfjidbz1,F,N,1400,1400,Q14 Sınır Boşluğu3
+xlmrocz1,B,Y,700,1400,1400,Q14 Sınır Boşluğu3
+dfrock1,E,N,1400,1400,Q14 Sınır Boşluğu3
 
 
